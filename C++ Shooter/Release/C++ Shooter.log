@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  C++ Shooter.cpp
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\bulletmanager.h(37): warning C4018: '>': signed/unsigned mismatch
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(45): warning C4018: '>': signed/unsigned mismatch
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(45): warning C4018: '<': signed/unsigned mismatch
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\bulletmanager.h(37): warning C4018: '>': signed/unsigned mismatch
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(45): warning C4018: '>': signed/unsigned mismatch
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(45): warning C4018: '<': signed/unsigned mismatch
+d:\random shit\development\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter\c++ shooter\enemymanager.h(61): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lives.cpp
+  Player.cpp
+  Score.cpp
+  Sound.cpp
+  TileMap.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+TileMap.obj : warning LNK4248: unresolved typeref token (0100000D) for 'SDL_Renderer'; image may not run
+Score.obj : warning LNK4248: unresolved typeref token (01000015) for 'SDL_Renderer'; image may not run
+Player.obj : warning LNK4248: unresolved typeref token (0100000F) for 'SDL_Renderer'; image may not run
+Lives.obj : warning LNK4248: unresolved typeref token (0100000D) for 'SDL_Renderer'; image may not run
+Game.obj : warning LNK4248: unresolved typeref token (01000015) for 'SDL_Renderer'; image may not run
+Game.obj : warning LNK4248: unresolved typeref token (0100001A) for 'SDL_Window'; image may not run
+TileMap.obj : warning LNK4248: unresolved typeref token (0100000E) for 'SDL_Texture'; image may not run
+Score.obj : warning LNK4248: unresolved typeref token (01000019) for 'SDL_Texture'; image may not run
+Player.obj : warning LNK4248: unresolved typeref token (01000010) for 'SDL_Texture'; image may not run
+Lives.obj : warning LNK4248: unresolved typeref token (0100000E) for 'SDL_Texture'; image may not run
+Game.obj : warning LNK4248: unresolved typeref token (0100001B) for 'SDL_Texture'; image may not run
+Score.obj : warning LNK4248: unresolved typeref token (0100001A) for '_TTF_Font'; image may not run
+Sound.obj : warning LNK4248: unresolved typeref token (01000018) for '_Mix_Music'; image may not run
+  C++ Shooter.vcxproj -> D:\Random Shit\Development\Projects\C++ Shooter\cmp5327-c-programming-for-games-assessment-Jake-Harris2\C++ Shooter\Release\C++ Shooter.exe

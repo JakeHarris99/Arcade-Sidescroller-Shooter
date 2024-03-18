@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  C++ Shooter.cpp
+z:\work\c++\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter (not working)\c++ shooter\game.hpp(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+z:\work\c++\projects\c++ shooter\cmp5327-c-programming-for-games-assessment-jake-harris2\c++ shooter (not working)\c++ shooter\game.hpp(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
